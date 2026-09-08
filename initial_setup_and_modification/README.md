@@ -10,7 +10,7 @@
   * [Gain table](#gain-table)
 * [Modifications](#modifications)
   * [Recommended](#recommended-improvements-for-capture)
-    * [Visual guide](#visual-guide)
+    <!--* [Visual guide](#visual-guide)   -->
   * [BOM](#bom)
 <!-- TOC -->
 
@@ -91,6 +91,7 @@ Gain is set to ~4x to target the input level of 650mVp-p
 
 ![schematic-gain-mod.jpg](assets/schematic-gain-lpf-mod.JPG)
 
+<!--
 #### Visual guide
 <details>
   <summary>Step by step visual guide</summary>
@@ -105,6 +106,8 @@ Gain is set to ~4x to target the input level of 650mVp-p
   ![gain-mod-step-8.jpg](assets/gain_mod_steps/gain-mod-step-8.jpg)
   
 </details>
+
+-->
 
 ### LPF and other improvements
 
